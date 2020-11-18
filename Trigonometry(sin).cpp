@@ -12,7 +12,7 @@ int main()
   
   double xDegrees = 90.0;
   
-  // degrees-radians()you can remove it)
+  // degrees-radians(you can remove it)
   x = xDegrees*3.14159/180;
   result = sin(x);
   
